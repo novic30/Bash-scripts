@@ -1,0 +1,20 @@
+#!/bin/bash/
+
+
+open "https://www.google.com/search?q=site:papaly.com+\"$1\""
+open "https://www.google.com/search?q=site:scribd.com+\"$1\""
+open "https://www.google.com/search?q=site:npmjs.com+\"$1\""
+open "https://www.google.com/search?q=site:npm.runkit.com+\"$1\""
+open "https://www.google.com/search?q=site:libraries.io+\"$1\""
+open "https://www.google.com/search?q=site:coggle.it+\"$1\""
+open "https://www.google.com/search?q=site:trello.com+\"$1\""
+open "https://www.google.com/search?q=site:prezi.com+\"$1\""
+open "https://www.google.com/search?q=site:jsdelivr.net+\"$1\""
+open "https://www.google.com/search?q=site:gitter.im+\"$1\""
+open "https://www.google.com/search?q=site:repl.it+\"$1\""
+open "https://www.google.com/search?q=site:pastebin.com+\"$1\""
+open "https://www.google.com/search?q=site:codepad.co+\"$1\""
+open "https://www.google.com/search?q=site:bitbucket.org+\"$1\""
+open "https://www.google.com/search?q=site:*.atlassian.net+\"$1\""
+open "https://www.google.com/search?q=inurl:gitlab+\"$1\""
+open "https://www.google.com/search?q=site:codepen.io +\"$1\""
